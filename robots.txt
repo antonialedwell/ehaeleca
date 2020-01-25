@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shiegitei.hankookfa.com/sitemap.xml
